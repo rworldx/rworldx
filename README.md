@@ -33,6 +33,10 @@ Full-stack platform tackling student isolation in remote learning: algorithmic p
 Fast, bilingual (EN/AR with RTL), accessibility-first site with a signature interactive connection graph.  
 `Next.js 15` · `TypeScript` · `Tailwind CSS` · `Framer Motion` — 🔗 [Live](https://rashidalghafri.com)
 
+**[IEEE BUC Student Branch Website](https://github.com/rworldx/ieee-buc-website) — ieee-buc-website.vercel.app**  
+The official website for the IEEE Student Branch at Al Buraimi University College, which I built and maintain as branch Webmaster — responsive and SEO-optimized.  
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` — 🔗 [Live](https://ieee-buc-website.vercel.app) · [Source](https://github.com/rworldx/ieee-buc-website)
+
 ### 🏆 Highlights
 
 - 🥇 **National Finalist (Top 30 of 738)** — London International Youth Science Forum, 2026
