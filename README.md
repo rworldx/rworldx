@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rashid Al Ghafri 👋</h1>
+<h1 align="center">Hi, I'm Rashid Al Ghafri !</h1>
 
 <p align="center">
   <b>Software Engineering Student · Full-Stack Developer</b> · Oman 🇴🇲
