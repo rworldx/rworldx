@@ -53,7 +53,7 @@ The official website for the IEEE Student Branch at Al Buraimi University Colleg
 
 - 🥇 **National Finalist (Top 30 of 738)** — London International Youth Science Forum, 2026
 - 🥈 **2nd Place** — Riyada Promising Student Projects Camp, 2025
-- 🎓 **CGPA 3.96/4.00** — First-Class Distinction · consistent Dean's List
+- 🎓 **CGPA 3.96/4.00** — First-Class Distinction · College Honour List — every semester since the Foundation year
 - 🌐 **Webmaster** — IEEE Student Branch, Al Buraimi University College
 
 
