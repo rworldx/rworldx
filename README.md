@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://rashidalghafri.com">🌐 Portfolio</a> ·
   <a href="https://linkedin.com/in/rashid-al-ghafri">💼 LinkedIn</a> ·
-  <a href="mailto:rr.abadi44@gmail.com">✉️ Email</a>
+  <a href="mailto:rashidalghafri.dev@gmail.com">✉️ Email</a>
 </p>
 
 
