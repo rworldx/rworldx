@@ -9,7 +9,6 @@
   <rect x="1" y="1" width="1278" height="398" rx="22" fill="#fcfefe" stroke="#d0d6da" stroke-width="2"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
     <text x="64" y="122" font-size="66" font-weight="700" letter-spacing="-1.5" fill="#10181e">Rashid Al Ghafri</text>
-    <text x="1216" y="122" font-size="60" font-weight="700" text-anchor="start" direction="rtl" fill="#4d5862">راشد الغافري</text>
     <text x="64" y="184" font-size="26" fill="#10181e">Software engineer and full-stack developer in Muscat, Oman.</text>
     <text x="64" y="222" font-size="21" fill="#4d5862">I build bilingual Arabic and English web products, and ship them tested end to end.</text>
     <path d="M 64 318 C 180 318, 210 300, 300 300 S 430 334, 540 334 S 690 296, 800 296 S 950 330, 1060 330 S 1180 312, 1216 312" fill="none" stroke="#a8cfef" stroke-width="2.5" stroke-linecap="round"/>
