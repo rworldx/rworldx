@@ -37,8 +37,8 @@ Bilingual website for a health, safety and environment consultancy in Oman, with
 ### 🚀 Featured Projects
 
 **[StudyNest](https://github.com/rworldx/StudyNest-Source): Collaborative Study Platform (Senior Capstone, graded Distinction)**  
-Rule-based partner matching across seven profile factors, real-time study rooms (chat, voice, video, screen share), and a Gemini-powered study assistant. 100+ REST endpoints, 20 data models, 139 passing tests. 44-student pilot: 86% high satisfaction, 95% said the AI assistant improved how they study.  
-`React` · `Node.js` · `MongoDB` · `Socket.IO` · `Gemini API`: 🔗 [Live](https://studynest.dev) · [Source](https://github.com/rworldx/StudyNest-Source)
+Rule-based partner matching across seven profile factors, real-time chat and video study rooms (screen share, roles, focus timer), study sessions, shared notes, and Nour (نور), a Gemini-powered study buddy. English and Arabic. 100+ REST endpoints, 22 data models, 387 passing tests. 44-student pilot: 86% high satisfaction, 95% said the AI assistant improved how they study.  
+`Next.js 16` · `React 19` · `TypeScript` · `Node.js` · `MongoDB` · `Socket.IO` · `Gemini API`: 🔗 [Live](https://studynest.dev) · [Source](https://github.com/rworldx/StudyNest-Source)
 
 **[The Thread](https://the-thread-marvel.vercel.app): Marvel Watch-Order Resolver**  
 Name one title and get the shortest watch path across 216 films and series. 1,893 static pages in English and Arabic, 321 unit tests, 55 browser tests. Independent fan project, not affiliated with Marvel or Disney.  
