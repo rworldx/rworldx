@@ -11,37 +11,6 @@
 
 Software Engineering graduate, BSc with **CGPA 3.96/4.00** and First-Class Distinction (July 2026). I build web products for real clients in Arabic and English, with full right-to-left layout, and I test them end to end before they ship. Strongest on the frontend, comfortable across the stack. Currently an HSE trainee at Nama Water Services.
 
-## Client work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://modernsupply.om"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/modern-supply-dark.jpg"><img src="assets/modern-supply-light.jpg" alt="Modern Supply home page" width="100%"></picture></a>
-
-**[Modern Supply](https://modernsupply.om)**<br>
-E-commerce for an Omani food-service distributor. 654 products across 5 brand catalogues, one cart, cash-on-delivery orders with tracking numbers, and an admin dashboard for orders, stock, discounts and delivery fees.
-
-<sub>119 unit tests · Arabic and English</sub><br>
-<sub><code>Next.js 16</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code></sub>
-
-[Live](https://modernsupply.om) · [Case study](https://rashidalghafri.com/projects/modern-supply)
-</td>
-<td width="50%" valign="top">
-<a href="https://kadi-hse.om"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kadi-dark.jpg"><img src="assets/kadi-light.jpg" alt="KADI HSE Consultancy home page" width="100%"></picture></a>
-
-**[KADI HSE Consultancy](https://kadi-hse.om)**<br>
-Website for a health, safety and environment consultancy in Oman. The Arabic is written natively, with full right-to-left layout, not translated after the fact.
-
-<sub>Lighthouse 100 in all four categories (desktop, English) · 141 unit tests</sub><br>
-<sub><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></sub>
-
-[Live](https://kadi-hse.om) · [Case study](https://rashidalghafri.com/projects/kadi-hse)
-</td>
-</tr>
-</table>
-
-<sub>Source code for client work is private.</sub>
-
 ## Projects
 
 <table>
@@ -97,6 +66,37 @@ Every project told as a story, in English and Arabic with full right-to-left lay
 </td>
 </tr>
 </table>
+
+## Client work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://modernsupply.om"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/modern-supply-dark.jpg"><img src="assets/modern-supply-light.jpg" alt="Modern Supply home page" width="100%"></picture></a>
+
+**[Modern Supply](https://modernsupply.om)**<br>
+E-commerce for an Omani food-service distributor. 654 products across 5 brand catalogues, one cart, cash-on-delivery orders with tracking numbers, and an admin dashboard for orders, stock, discounts and delivery fees.
+
+<sub>119 unit tests · Arabic and English</sub><br>
+<sub><code>Next.js 16</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code></sub>
+
+[Live](https://modernsupply.om) · [Case study](https://rashidalghafri.com/projects/modern-supply)
+</td>
+<td width="50%" valign="top">
+<a href="https://kadi-hse.om"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kadi-dark.jpg"><img src="assets/kadi-light.jpg" alt="KADI HSE Consultancy home page" width="100%"></picture></a>
+
+**[KADI HSE Consultancy](https://kadi-hse.om)**<br>
+Website for a health, safety and environment consultancy in Oman. The Arabic is written natively, with full right-to-left layout, not translated after the fact.
+
+<sub>Lighthouse 100 in all four categories (desktop, English) · 141 unit tests</sub><br>
+<sub><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></sub>
+
+[Live](https://kadi-hse.om) · [Case study](https://rashidalghafri.com/projects/kadi-hse)
+</td>
+</tr>
+</table>
+
+<sub>Source code for client work is private.</sub>
 
 ## Tools I use
 
