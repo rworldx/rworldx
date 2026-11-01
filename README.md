@@ -21,8 +21,8 @@ Software Engineering graduate, BSc with **CGPA 3.96/4.00** and First-Class Disti
 **[StudyNest](https://studynest.dev)**<br>
 Find a study partner, then actually study together: chat, video study rooms with screen share and a shared focus timer, sessions, shared notes, and Nour (نور), an AI study buddy. Partner matching is a weighted score over seven profile factors, not AI.
 
-<sub>Senior capstone, graded Distinction · 22 data models · 387 passing tests · 44-student pilot: 86% high satisfaction</sub><br>
-<sub><code>Next.js 16</code> <code>React 19</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.IO</code> <code>WebRTC</code> <code>Gemini API</code></sub>
+<sub>Senior capstone, graded Distinction · 38 PostgreSQL tables · 1,069 passing tests · 44-student pilot: 86% high satisfaction</sub><br>
+<sub><code>Next.js 16</code> <code>React 19</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Socket.IO</code> <code>WebRTC</code> <code>Gemini API</code></sub>
 
 [Live](https://studynest.dev) · [Case study](https://rashidalghafri.com/projects/studynest) · [Source](https://github.com/rworldx/StudyNest-Source)
 </td>
